@@ -1,0 +1,8 @@
+{
+  "database": {
+    "url": "jdbc:mysql://localhost:3306/dbcrawler_db",
+    "username": "root",
+    "password": "your_password",
+    "driverClassName": "com.mysql.cj.jdbc.Driver"
+  }
+}
